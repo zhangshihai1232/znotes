@@ -143,3 +143,8 @@ Bob-->Alice: I am good thanks!
   [4]: http://bramp.github.io/js-sequence-diagrams/
   [5]: https://dev.yinxiang.com/doc/articles/enml.php
 
+
+
+*强调* 或者 _强调_ (示例：斜体)
+**加重强调** 或者 __加重强调__ (示例：粗体)
+***特别强调*** 或者 ___特别强调___ (示例：粗斜体)
